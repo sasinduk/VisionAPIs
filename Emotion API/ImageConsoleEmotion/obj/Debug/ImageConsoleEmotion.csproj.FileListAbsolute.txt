@@ -1,0 +1,6 @@
+C:\Users\a-sakavi\Desktop\Emotion\ImageConsoleEmotion\ImageConsoleEmotion\bin\Debug\ImageConsoleEmotion.exe.config
+C:\Users\a-sakavi\Desktop\Emotion\ImageConsoleEmotion\ImageConsoleEmotion\bin\Debug\ImageConsoleEmotion.exe
+C:\Users\a-sakavi\Desktop\Emotion\ImageConsoleEmotion\ImageConsoleEmotion\bin\Debug\ImageConsoleEmotion.pdb
+C:\Users\a-sakavi\Desktop\Emotion\ImageConsoleEmotion\ImageConsoleEmotion\obj\Debug\ImageConsoleEmotion.csprojResolveAssemblyReference.cache
+C:\Users\a-sakavi\Desktop\Emotion\ImageConsoleEmotion\ImageConsoleEmotion\obj\Debug\ImageConsoleEmotion.exe
+C:\Users\a-sakavi\Desktop\Emotion\ImageConsoleEmotion\ImageConsoleEmotion\obj\Debug\ImageConsoleEmotion.pdb
