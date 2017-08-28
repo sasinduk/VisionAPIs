@@ -20,9 +20,8 @@ namespace CognetiveConsole
         // You must use the same region in your REST API call as you used to obtain your subscription keys.
         // For example, if you obtained your subscription keys from the westus region, replace 
         // "westcentralus" in the URI below with "westus".
-        //
-        // NOTE: Free trial subscription keys are generated in the westcentralus region, so if you are using
-        // a free trial subscription key, you should not need to change this region.
+     
+        //You can change the uriBase according to the region of your subscription key.
         const string uriBase = "https://westus.api.cognitive.microsoft.com/face/v1.0/detect";
 
 
@@ -30,12 +29,12 @@ namespace CognetiveConsole
         {
             // Get the path and filename to process from the user.
             Console.WriteLine("Detect faces:");
-            //Console.Write("Enter the path to an image with faces that you wish to analzye: ");
-            //string imageFilePath = Console.ReadLine();
-            string path = @"D:\test.pg";
+            Console.Write("Enter the path to an image with faces that you wish to analzye: ");
+            string imageFilePath = Console.ReadLine();
+
             // Execute the REST API call.
-            //MakeAnalysisRequest(imageFilePath);
-            MakeAnalysisRequest(path); 
+            MakeAnalysisRequest(imageFilePath);
+
             Console.WriteLine("\nPlease wait a moment for the results to appear. Then, press Enter to exit...\n");
             Console.ReadLine();
         }
