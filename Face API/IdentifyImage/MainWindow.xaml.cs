@@ -27,7 +27,7 @@ namespace IdentifyImage
         
 
 
-        private const string personGroupId = "family33";
+        private const string personGroupId = "ABC_Marketing_Division";
 
         public MainWindow()
         {

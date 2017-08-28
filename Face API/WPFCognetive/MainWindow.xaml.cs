@@ -36,7 +36,7 @@ namespace WPFCognetive
 
         private readonly IFaceServiceClient faceServiceClient = new FaceServiceClient("<your face API key>");
 
-        private const string personGroupId = "family33";
+        private const string personGroupId = "ABC_Marketing_Division";
 
 
 
@@ -53,11 +53,11 @@ namespace WPFCognetive
                     // Id of the person group that the person belonged to
                     personGroupId,
                     // Name of the person
-                    "Indika Dalugama"
+                    "Anna Simmons"
                 );
 
-                // Directory contains image files of Anna
-                string friend1ImageDir = @"C:\Users\a-sakavi\Pictures";
+                // Directory contains image files of the person
+                string friend1ImageDir = @"D:\Pictures\Anna";
 
 
                 foreach (string imagePath in Directory.GetFiles(friend1ImageDir, "*.jpg"))
