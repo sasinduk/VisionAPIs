@@ -1,0 +1,18 @@
+C:\Users\a-sakavi\Desktop\Cognetive\CognetiveConsole\bin\Debug\CognetiveConsole.exe.config
+C:\Users\a-sakavi\Desktop\Cognetive\CognetiveConsole\bin\Debug\CognetiveConsole.exe
+C:\Users\a-sakavi\Desktop\Cognetive\CognetiveConsole\bin\Debug\CognetiveConsole.pdb
+C:\Users\a-sakavi\Desktop\Cognetive\CognetiveConsole\obj\Debug\CognetiveConsole.csprojResolveAssemblyReference.cache
+C:\Users\a-sakavi\Desktop\Cognetive\CognetiveConsole\obj\Debug\CognetiveConsole.exe
+C:\Users\a-sakavi\Desktop\Cognetive\CognetiveConsole\obj\Debug\CognetiveConsole.pdb
+C:\Users\a-sakavi\Desktop\Cognetive Return Image Details\CognetiveConsole\bin\Debug\CognetiveConsole.exe.config
+C:\Users\a-sakavi\Desktop\Cognetive Return Image Details\CognetiveConsole\bin\Debug\CognetiveConsole.exe
+C:\Users\a-sakavi\Desktop\Cognetive Return Image Details\CognetiveConsole\bin\Debug\CognetiveConsole.pdb
+C:\Users\a-sakavi\Desktop\Cognetive Return Image Details\CognetiveConsole\obj\Debug\CognetiveConsole.csprojResolveAssemblyReference.cache
+C:\Users\a-sakavi\Desktop\Cognetive Return Image Details\CognetiveConsole\obj\Debug\CognetiveConsole.exe
+C:\Users\a-sakavi\Desktop\Cognetive Return Image Details\CognetiveConsole\obj\Debug\CognetiveConsole.pdb
+C:\Users\a-sakavi\Desktop\Vision\Face\Person Attributes\CognetiveConsole\bin\Debug\CognetiveConsole.exe.config
+C:\Users\a-sakavi\Desktop\Vision\Face\Person Attributes\CognetiveConsole\bin\Debug\CognetiveConsole.exe
+C:\Users\a-sakavi\Desktop\Vision\Face\Person Attributes\CognetiveConsole\bin\Debug\CognetiveConsole.pdb
+C:\Users\a-sakavi\Desktop\Vision\Face\Person Attributes\CognetiveConsole\obj\Debug\CognetiveConsole.csprojResolveAssemblyReference.cache
+C:\Users\a-sakavi\Desktop\Vision\Face\Person Attributes\CognetiveConsole\obj\Debug\CognetiveConsole.exe
+C:\Users\a-sakavi\Desktop\Vision\Face\Person Attributes\CognetiveConsole\obj\Debug\CognetiveConsole.pdb
